@@ -1,0 +1,26 @@
+body{
+    background-color:lightblue;
+    
+}
+h2{
+    text-shadow: 0px 3px 7px gray;
+    text-align: left;
+    
+    
+}
+
+.slika1{
+
+    
+    float: left;
+    
+}
+.podnaslov{
+    text-shadow: 0px 3px 7px gray;
+
+
+}
+.fa-graduation-cap{
+    float: left;
+    
+}
