@@ -12,7 +12,11 @@ h2{
 .slika1{
     border-radius: 50%;
     float: left;
+
     
+}
+.p1{
+    margin-left: 100px;
 }
 
 .fa-graduation-cap{
@@ -34,4 +38,13 @@ h2{
 button{
     width: 50px;
     height: 30px;
+}
+button:hover{
+    background-color: grey;
+}
+button:visited{
+    background-color: red;
+}
+a:hover{
+    color: blue;
 }
